@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/39106794/143495579-ce34a579-fcfd-4abe-b2a1-f7f4611ab538.gif" width="10%" alt="Hello">
+  <img src="https://user-images.githubusercontent.com/39106794/143495579-ce34a579-fcfd-4abe-b2a1-f7f4611ab538.gif" width="20%" alt="Hello">
 </p>
 
 ### About me
@@ -14,10 +14,7 @@
 🖤 I'm currently studying ReactJs
 
 🖤 I love my profession and always ready to learn more!
-
-
 ---
-
 
 ### Tech & Tools Preference
 
@@ -32,12 +29,9 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
-
 ---
-
 ### Let's chat!
 <a href="https://www.linkedin.com/in/naicol" target="_blank">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
