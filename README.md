@@ -6,7 +6,7 @@
 
 ###  Soy desarrolladora Frontend
 
-💪🏼 Actualmente estoy estudiando: **JavaScript**.
+💪🏼 Actualmente estoy estudiando: **JavaScript** y **React**. 
 
 Conozco diferentes lenguajes y herramientas, entre ellos: 
 * HTML5
@@ -16,19 +16,14 @@ Conozco diferentes lenguajes y herramientas, entre ellos:
 * Git
 * JavaScript 
 * C# .Net SQL
-* Framer / Adobe XD
+* Figma / Adobe XD
  
 🌸 Me gusta el diseño UX UI y trato de incorporarlo en mis proyectos
 
 👩🏼 Entre mis hobbies se encuentran: pintar lettering, crear playlist de Spotify, dibujar en CSS, diseño digital
 
-
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-
+🌸 Amo mi profesion y siempre estoy dispuesta a aprender mas!
 
 ## 🖤 Get in touch: 
 * ✨ LinkedIn: https://www.linkedin.com/in/naicol
 * ✨ CodePen: https://codepen.io/naicol
-
-
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
