@@ -14,8 +14,10 @@ Conozco diferentes lenguajes y herramientas, entre ellos:
 * Bootstrap
 * Mongo
 * Git
-* JavaScript 
+* JavaScript
+* React JS
 * C# .Net SQL
+* Cells
 * Figma / Adobe XD
  
 🌸 Me gusta el diseño UX UI y trato de incorporarlo en mis proyectos
